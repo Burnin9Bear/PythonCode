@@ -11,24 +11,33 @@ result = []
 str1 = input('Please input a string')
 str2 = input('please input a string to split the first string')
 
+# repeat = str1.count(str2)
+#
+# if repeat > 0:
+#     last_index = 0
+#     for i in range(0, repeat ):
+#         current_index = str1.find(str2, last_index)
+#         print(last_index)
+#         print(current_index)
+#         if last_index != current_index:
+#             result.append(str1[last_index: current_index])
+#         last_index = current_index + 1
+# else:
+#     result.append(str1)
+#
+# print(result)
+
+
+temp_str = ''
+for i in str1:
+    if i == str2:
+        if temp_str:
+            result.append(temp_str)
+            temp_str = ''
+        continue
+    temp_str += i
+if temp_str:
+    result.append(temp_str)
+
 print(str1.split(str2))
-
-repeat = str1.count(str2)
-
-if repeat > 0:
-    last_index = 0
-    for i in range(0, repeat):
-        current_index = str1.find(str2, last_index)
-        print(last_index)
-        print(current_index)
-        if last_index != current_index:
-            result.append(str1[last_index: current_index])
-        last_index = current_index + 1
-else:
-    result.append(str1)
-
 print(result)
-
-
-
-

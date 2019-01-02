@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da2413eb-d273-44ad-afc7-0a614bb0373d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Section 3 Q2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 3 Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section 3 Q2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
     <SUITE FILE_PATH="coverage/201281224Day3$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1545658147445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201281224Day3$Section_1_Q3.coverage" NAME="Section 1 Q3 Coverage Results" MODIFIED="1545812019138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201281224Day3$Section_1_Q3_II.coverage" NAME="Section 1 Q3 II Coverage Results" MODIFIED="1545874065622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/201281224Day3$Section_3_Q2.coverage" NAME="Section 3 Q2 Coverage Results" MODIFIED="1546421440737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/201281224Day3$Section_3_Q2.coverage" NAME="Section 3 Q2 Coverage Results" MODIFIED="1546436021098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201281224Day3$Section_2_Q4.coverage" NAME="Section 2 Q4 Coverage Results" MODIFIED="1545893691237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201281224Day3$Section_2_Q1.coverage" NAME="Section 2 Q1 Coverage Results" MODIFIED="1545876359163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/201281224Day3$Section_2_Q3.coverage" NAME="Section 2 Q3 Coverage Results" MODIFIED="1545893678548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -89,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Section 3 Q2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state relative-caret-position="603">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -333,7 +333,8 @@
       <workItem from="1545889329594" duration="11517000" />
       <workItem from="1545915967844" duration="5094000" />
       <workItem from="1545960792768" duration="11052000" />
-      <workItem from="1546396912145" duration="9936000" />
+      <workItem from="1546396912145" duration="10042000" />
+      <workItem from="1546431566033" duration="4470000" />
     </task>
     <task id="LOCAL-00001" summary="20181225">
       <created>1545733308407</created>
@@ -363,21 +364,28 @@
       <option name="project" value="LOCAL" />
       <updated>1546049566955</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Happy New Year !!">
+      <created>1546421508117</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1546421508117</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65189000" />
+    <option name="totallyTimeSpent" value="69765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676377" visible="true" weight="0.26705757" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676377" visible="true" weight="0.26972282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50323623" side_tool="true" weight="0.26066098" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +410,8 @@
     <MESSAGE value="20181225" />
     <MESSAGE value="20181228" />
     <MESSAGE value="20181229" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181229" />
+    <MESSAGE value="Happy New Year !!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Happy New Year !!" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Section 1 Q1.py">
@@ -466,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Section 3 Q2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="603">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
         </state>
       </provider>
     </entry>
